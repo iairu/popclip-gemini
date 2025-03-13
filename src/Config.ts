@@ -4,7 +4,7 @@
 // identifier: com.iairu.popclip.extension.gemini
 // description: Send the selected text to Gemini's Chat API.
 // app: { name: Gemini API, link: 'https://ai.google.dev/gemini-api/docs/quickstart?lang=rest' }
-// popclipVersion: 001
+// popclipVersion: 4586
 // keywords: gemini google ai
 // entitlements: [network]
 

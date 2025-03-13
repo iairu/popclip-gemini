@@ -2,7 +2,7 @@
 
 # Settings
 PCX_BUILD_ID=48f32j
-PCX_SUBVERSION=001
+PCX_SUBVERSION=4586
 PCX_IDENTIFIER=com.iairu.popclip.extension.gemini
 PCX_NAME=Gemini-Chat
 
