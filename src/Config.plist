@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Comment</key>
+	<string>File written manually</string>
+	<key>Extension Identifier</key>
+	<string>com.iairu.popclip.extension.gemini</string>
+	<key>Extension Name</key>
+	<string>Gemini Chat</string>
+	<key>Required Software Version</key>
+	<integer>001</integer>
+</dict>
+</plist>
